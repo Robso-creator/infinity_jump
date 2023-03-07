@@ -3,7 +3,7 @@
 This is a simple game developed using Pycharm, which is a mix of functional and object-oriented programming paradigms. In this game, the user has to dodge obstacles indefinitely and accumulate points.
 
 ## Game Overview
-The game involves a player who is moving along a horizontal axis, and the obstacles appear randomly from the top of the screen. The player must avoid the obstacles by pressing space or up and the player earns one point while the clock is running. If the player collides with an obstacle, the game is over.
+The game involves a player who is moving along a horizontal axis, and the obstacles appear randomly from the right of the screen. The player must avoid the obstacles by pressing space or up and the player earns one point while the clock is running. If the player collides with an obstacle, the game is over.
 ![game_main_picture.png](docs%2Fgame_main_picture.png) 
 
 ## Functional Programming
